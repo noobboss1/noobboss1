@@ -19,7 +19,7 @@
 <h3><b><i>👩‍💻 Contact R.U.R. HaXoR :</i></b></h3>
 <a href="https://www.facebook.com/R.U.R.HaXoR6939/"><img align="left" title="Facebook" alt="Facebook" width="30px" src="assets/facebook.png" /></a>
 <a href="https://www.facebook.com/R.U.R.HaXoR6939/"><img align="left" title="Messenger" alt="Messenger" width="30px" src="assets/messenger.png" /></a>
-<a href="https://t.me/RURHaXoR"><img align="left" title="Telegram" alt="Telegram" width="30px" src="assets/Telegram.png" /></a>
+<a href="https://t.me/RURHaXoR"><img align="left" title="Telegram" alt="Telegram" width="30px" src="assets/Telegram.png" /></a><br>
 
 <h3><b><i>👩‍💻 Contact N00B B0SS :</i></b></h3>
 <a href="https://www.facebook.com/Noob.Boss.THBD/"><img align="left" title="Facebook" alt="Facebook" width="30px" src="assets/facebook.png" /></a>
