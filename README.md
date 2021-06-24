@@ -17,10 +17,10 @@
 <a href="https://github.com/noobboss1"><img height="25" title="Counter" src="https://komarev.com/ghpvc/?username=noobboss1&color=blueviolet&style=flat-square"></a>
 
 <h3><b><i>👩‍💻 Contact R.U.R. HaXoR :</i></b></h3>
-<a href="https://www.facebook.com/R.U.R.HaXoR6939/"><img align="left" title="Facebook" alt="Facebook" width="30px" src="assets/facebook.png" /></a>
-<a href="https://www.facebook.com/R.U.R.HaXoR6939/"><img align="left" title="Messenger" alt="Messenger" width="30px" src="assets/messenger.png" /></a>
-<a href="https://t.me/RURHaXoR"><img align="left" title="Telegram" alt="Telegram" width="30px" src="assets/Telegram.png" /></a><br>
+<a href="https://www.facebook.com/R.U.R.HaXoR6939/"><img align="left" title="Facebook" alt="Facebook" width="30px" src="assets/https://i.ibb.co/2FrDPV0/facebook.png" /></a>
+<a href="https://m.me/facebook.com/R.U.R.HaXoR6939/"><img align="left" title="Messenger" alt="Messenger" width="30px" src="https://i.ibb.co/Cn8FHym/messenger.png" /></a>
+<a href="https://t.me/RURHaXoR"><img align="left" title="Telegram" alt="Telegram" width="30px" src="https://i.ibb.co/m9d3HF2/Telegram.png" /></a><br>
 
 <h3><b><i>👩‍💻 Contact N00B B0SS :</i></b></h3>
-<a href="https://www.facebook.com/Noob.Boss.THBD/"><img align="left" title="Facebook" alt="Facebook" width="30px" src="assets/facebook.png" /></a>
-<a href="https://www.facebook.com/Noob.Boss.THBD/"><img align="left" title="Messenger" alt="Messenger" width="30px" src="assets/messenger.png" /></a>
+<a href="https://www.facebook.com/Noob.Boss.THBD/"><img align="left" title="Facebook" alt="Facebook" width="30px" src="https://i.ibb.co/2FrDPV0/facebook.png"/></a>
+<a href="https://www.facebook.com/Noob.Boss.THBD/"><img align="left" title="Messenger" alt="Messenger" width="30px" src="https://i.ibb.co/Cn8FHym/messenger.png" /></a>
