@@ -7,7 +7,7 @@
 
 <h3><b><i>👥 About :</i></b></h3>
 <li> 👩‍💻 <i>We Are Two Friend Using This Github</i></li>
-<li> 🇧🇩 <i>We Are Bangladeshi</i></li>
+<li> 🇧🇩 <i>We Are Bangladeshi HACKERS</i></li>
 <li> 😍 <i>We Are Muslim</i></li>
 
 <h3><b><i>🏆 Github Statistics :</i></b></h3>
